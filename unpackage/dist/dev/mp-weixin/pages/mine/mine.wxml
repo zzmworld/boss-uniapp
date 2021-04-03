@@ -1,0 +1,1 @@
+<view><view><u-avatar vue-id="bae1c640-1" src="{{userInfo.avatar}}" bind:__l="__l"></u-avatar></view><view>{{''+userInfo.name}}</view></view>

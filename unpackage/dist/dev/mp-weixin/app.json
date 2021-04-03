@@ -1,0 +1,47 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/look/look",
+    "pages/look/content",
+    "pages/message/message",
+    "pages/mine/mine",
+    "pages/search/search",
+    "pages/resume/resume",
+    "pages/resume/eduExp",
+    "pages/resume/workExp",
+    "pages/resume/projectExp",
+    "pages/resume/except",
+    "pages/work/work",
+    "pages/chat/chat"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "找工作"
+      },
+      {
+        "pagePath": "pages/look/look",
+        "text": "看一看"
+      },
+      {
+        "pagePath": "pages/message/message",
+        "text": "消息"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "text": "我的"
+      }
+    ]
+  },
+  "permission": {},
+  "usingComponents": {
+    "page-head": "/components/page-head/page-head"
+  },
+  "sitemapLocation": "sitemap.json"
+}

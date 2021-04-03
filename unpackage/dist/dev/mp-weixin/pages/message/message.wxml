@@ -1,0 +1,1 @@
+<view><u-tabs vue-id="7ac9e6a0-1" list="{{list}}" is-scroll="{{false}}" current="{{current}}" data-event-opts="{{[['^change',[['change']]]]}}" bind:change="__e" bind:__l="__l"></u-tabs><scroll-view scroll-y="true"><view></view></scroll-view></view>

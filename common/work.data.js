@@ -1,0 +1,67 @@
+export default[{
+	id:505,
+	jobName:'前端工程师',
+	money:'5-7k',
+	copName:'极顶科技',
+	copSize:'20-99人',
+	copStatu:'已上市',
+	tag:["1-3年",'本科','vue','小程序'],
+	hrName:'林小姐',
+	hrPost:'行政人事',
+	addr:['厦门市','思明区','软件园','观日路18号楼502室'],
+	detail:['1.精通javascript','2.有大型项目开发经验','3.有实际团队管理经验'],
+	message:"你好，请问现在还在找工作吗？1"
+},{
+	id:2,
+	jobName:'前端',
+	money:'16-27k',
+	copName:'创狐网络',
+	copSize:'100-499人',
+	copStatu:'已上市',
+	tag:["3-5年",'大专','uniapp'],
+	hrName:'王小姐',
+	hrPost:'项目经理',
+	addr:['厦门市','集美区','软件园三期','B区18号楼502室'],
+	detail:['1.精通javascript','2.有大型项目开发经验','3.有实际团队管理经验'],
+	message:"你好，请问现在还在找工作吗？2"
+},{
+	id:3,
+	jobName:'h5开发',
+	money:'9-17k',
+	copName:'极顶科技',
+	copSize:'20-99人',
+	copStatu:'已上市',
+	tag:["1-3年",'本科','vue','小程序'],
+	hrName:'林小姐',
+	hrPost:'行政人事',
+	addr:['厦门市','湖里区','万达广场','C区18号楼906室'],
+	detail:['1.精通javascript','2.有大型项目开发经验','3.有实际团队管理经验'],
+	message:"你好，请问现在还在找工作吗？3"
+},{
+	id:4,
+	jobName:'移动开发工程师',
+	money:'5-7k',
+	copName:'极顶科技',
+	copSize:'20-99人',
+	copStatu:'已上市',
+	tag:["1-3年",'本科','vue','小程序'],
+	hrName:'林小姐',
+	hrPost:'行政人事',
+	addr:['厦门市','思明区','软件园','观日路18号楼502室'],
+	detail:['1.精通javascript','2.有大型项目开发经验','3.有实际团队管理经验'],
+	message:"你好，请问现在还在找工作吗？4"
+},{
+	id:5,
+	jobName:'小程序开发',
+	money:'5-7k',
+	copName:'极顶科技',
+	copSize:'20-99人',
+	copStatu:'已上市',
+	tag:["1-3年",'本科','vue','小程序'],
+	hrName:'林小姐',
+	hrPost:'行政人事',
+	addr:['厦门市','思明区','软件园','观日路18号楼502室'],
+	detail:['1.精通javascript','2.有大型项目开发经验','3.有实际团队管理经验'],
+	message:"你好，请问现在还在找工作吗？5"
+}
+]

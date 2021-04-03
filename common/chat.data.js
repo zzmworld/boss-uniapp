@@ -1,0 +1,47 @@
+export default[{
+	id:1,
+    name:"曾子铭",
+	message:'你好，对你的职位很感兴趣，可以聊聊吗'
+},{
+	id:1,
+    name:"曾子铭",
+	message:'这是我的简历'
+},
+{
+	id:2,
+	name:'林小姐',
+	message:'好的'
+},
+{
+	id:2,
+	name:'林小姐',
+	message:'做过小程序吗'
+},{
+	id:1,
+    name:"曾子铭",
+	message:'做过一个项目'
+},
+{
+	id:2,
+	name:'林小姐',
+	message:'介绍一下这个项目'
+},{
+	id:1,
+    name:"曾子铭",
+	message:'这个项目是用uniapp发布的，主要功能有登录，聊天，收发简历。'
+},
+{
+	id:2,
+	name:'林小姐',
+	message:'项目有哪些应用到的技术'
+},
+{
+	id:2,
+	name:'林小姐',
+	message:'遇到了什么难题'
+},{
+	id:1,
+    name:"曾子铭",
+	message:'都没有'
+}
+]

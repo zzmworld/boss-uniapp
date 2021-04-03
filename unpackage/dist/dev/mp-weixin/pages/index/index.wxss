@@ -1,0 +1,43 @@
+
+.bar {
+	padding: 40rpx;
+}
+.item1,
+.item4 {
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.work-list {
+	background-color: #f2f2f2;
+	padding-bottom: 5rpx;
+}
+.work-item {
+	padding: 20rpx;
+	background-color: #ffffff;
+}
+.work-item>view {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	padding: 10rpx;
+}
+.item2>view {
+	padding-right: 20rpx;
+}
+.item4>view {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.hr>view {
+	padding-right: 10rpx;
+}
+.item-name {
+	font-size: 40rpx;
+	font-weight: 500;
+}
+.item-money {
+	font-size: 36rpx;
+}
+
